@@ -1,0 +1,25 @@
+#portfolio_img{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: fit-content;
+    margin: 10vh auto 10vh;
+    gap: 30px 30px;
+}
+
+#portfolio_img img{
+    width: 200px;
+    background-color: #5c5c5c;
+}
+
+#portfolio_img_for_page{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: fit-content;
+    margin: 10vh auto 10vh;
+    gap: 30px 30px;
+}
+
+#portfolio_img_for_page img{
+    width: 200px;
+    background-color: #5c5c5c;
+}

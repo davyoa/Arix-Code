@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    background-color: var(--blue_black);
+    gap: 37rem;
+    position: fixed;
+    top: 0px;
+}#navbar ul{
+    display: flex;
+    gap: 50px;
+    height: 6vh;
+    margin-top: 15px;
+}#navbar a, #navbar li{
+    list-style: none;
+    font-size: 17px;
+    color: #fbfbfb;
+    cursor: pointer;
+    text-decoration: none;
+}#navbar span{
+    color: var(--orange);
+}#navbar img{
+    margin: 15px 0px 0px 60px;
+    height: 20px;
+}

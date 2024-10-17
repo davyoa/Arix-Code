@@ -1,0 +1,333 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root {
+    --blue_black: #04454D;
+    --light_blue_black: #045D68;
+    --white: #fbfbfb;
+    --orange: #F56E0F;
+    --green: #05DB7A;
+}
+
+body {
+    background-color: var(--blue_black);
+}
+
+.orange-btn {
+    width: fit-content;
+    height: 10px;
+    background-color: var(--orange);
+    padding: 10px;
+    border-radius: 30px;
+    color: var(--white);
+}
+
+h2 {
+    color: var(--white);
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*THE HOME PAGE(INDEX.HTML)----------------------------------------------------------------------------------------------------------*/
+
+/*hero section*/
+#hero {
+    margin-top: 15vh;
+}
+
+.texts {
+    margin-left: 10vh;
+    margin-top: 15vh;
+}
+
+.texts h1 {
+    width: 140vh;
+    color: var(--white);
+    font-size: 70px;
+}
+
+.texts p {
+    font-size: 30px;
+    color: var(--white);
+    margin-bottom: 20px;
+}
+
+.hire_us {
+    text-decoration: none;
+    font-size: 20px;
+    /*position: relative;
+    top: 20px;*/
+}
+
+.text_iiiDlogo {
+    display: flex;
+}
+
+.iiiDlogo {
+    width: 20rem;
+}
+
+
+
+
+
+/*middleSecBtwHeroAndSpecialize*/
+
+#middleSecBtwHeroAndSpecialize {
+    margin: 20px 0px 0px 0px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--light_blue_black);
+    width: 35vh;
+    height: 10vh;
+    transition: 0.2s;
+}
+
+.boxes a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: var(--white);
+    font-size: 25px;
+}
+
+.boxes img {
+    width: 30px;
+    margin: 0px 10px 0px 10px;
+    color: var(--white);
+}
+
+.boxes:hover {
+    height: 11vh;
+}
+
+
+
+
+/*specialize*/
+#specialize {
+    margin-top: 100px;
+    margin-bottom: 20vh;
+}
+
+.whatWeSpecialize h3 {
+    color: var(--green);
+    text-align: center;
+    font-weight: lighter;
+}
+
+.whatWeSpecialize p {
+    width: 100vh;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-top: 10px;
+    color: var(--white);
+    margin-bottom: 20px;
+}
+
+.cards_whtWeSpecialize {
+    display: flex;
+    gap: 10vh;
+    justify-content: center;
+    margin-top: 20vh;
+}
+
+.card {
+    width: 40vh;
+    height: 60vh;
+    background-color: var(--light_blue_black);
+    margin-bottom: 10vh;
+    padding: 10px;
+}
+
+.card img {
+    width: 150px;
+    margin: 50px 0px 40px 50px;
+}
+
+.card h2 {
+    color: var(--green);
+    margin-bottom: 10px;
+}
+
+.card p {
+    color: var(--white);
+}
+
+
+
+/*Portfolio*/
+#portfolio {
+    height: inherit;
+    padding: 10vh 0vh;
+    background-color: var(--light_blue_black);
+}
+
+#portfolio h3 {
+    color: var(--green);
+    text-align: center;
+    font-weight: lighter;
+}
+
+/*contacts*/
+#contacts div {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 150vh;
+    gap: 0px;
+}
+
+#contacts a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40vh;
+    background-color: var(--light_blue_black);
+    padding: 10px;
+    border-radius: 30px;
+    margin: 0 auto 10px;
+    text-decoration: none;
+    color: var(--white);
+}
+
+#contacts img {
+    width: 20px;
+    margin: 0px 10px 0px 10px;
+    color: var(--white);
+
+}
+
+
+footer {
+    margin: 20vh 0vh 0vh 0vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 40vh;
+    background-color: var(--light_blue_black);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*THE ABOUT US PAGE---------------------------------------------------------------------------------------------------------------------------------*/
+
+/*The hero section*/
+.heroAboutUs {
+    margin: 20vh 0vh 0vh 0vh;
+}.heroAboutUsContent {
+    display: flex;
+    justify-content: center;
+    gap: 20vh;
+}.heroAboutUsContent h3 {
+    width: 115vh;
+    color: var(--green);
+    font-size: 130px;
+}.heroAboutUsContent {
+    color: var(--white);
+}.iiiDlogoforaboutus {
+    width: 45vh;
+}
+.WYSHUsection{
+    padding: 100px 0px 100px 0px;
+    margin: 100px 0px 0px 0px;
+    width: auto;
+    height: fit-content;
+    background-color: var(--light_blue_black);
+}
+.WYSHUsection h3{
+    text-align: center;
+    color: var(--green);
+    font-size: 30px;
+    margin: 0px 0px 10px 0px;
+}.WYSHUsection p{
+    color: var(--white);
+    width: 500px;
+    margin: 0px auto 0px;
+    text-align: center;
+}
+
+.ABTFsection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 100px;
+    margin: 100px 0px;
+}
+.ABTFtext h3{
+    color: var(--green);
+    font-size: 30px;
+    margin: 0px 0px 10px 0px;
+}.ABTFtext p{
+    width: 300px;
+    color: var(--white);
+}.foundersImage img{
+    background-color: #303030;
+    width: 200px;
+    height: 250px;
+    border-radius: 30px;
+    margin: 0px auto 0px;
+}
+
+
+
+
+
+
+
+/*OUR PORTFOLIO*/
+
+#top_designs {
+    margin: 5vh 0vh 0vh 0vh;
+    background-color: var(--light_blue_black);
+    padding: 5vh 0vh 10vh 0vh;
+}
+
+#top_designs h1 {
+    text-align: center;
+    color: var(--green);
+    font-size: 50px;
+}
+
+#recent_designs{
+    text-align: center;
+    color: var(--green);
+    font-size: 35px;
+}

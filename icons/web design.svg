@@ -1,0 +1,39 @@
+<svg id="web_design" data-name="web design" xmlns="http://www.w3.org/2000/svg" width="129.059" height="113.059" viewBox="0 0 129.059 113.059">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbfbfb;
+      }
+    </style>
+  </defs>
+  <g id="Group_29" data-name="Group 29">
+    <g id="Group_28" data-name="Group 28">
+      <path id="Path_15" data-name="Path 15" class="cls-1" d="M129.059,96.571V0H0V96.571H40.331v11.777H29.576v4.711H99.483v-4.711H88.728V96.571ZM5.377,4.711h118.3V9.422H5.377Zm0,9.422h118.3V47.108H5.377Zm0,37.686h118.3V80.084H5.377Zm77.973,56.53H45.708V96.571H83.351ZM5.377,91.861V84.794h118.3v7.066Z"/>
+    </g>
+  </g>
+  <g id="Group_31" data-name="Group 31" transform="translate(100.271 19.533)">
+    <g id="Group_30" data-name="Group 30">
+      <path id="Path_16" data-name="Path 16" class="cls-1" d="M385.682,84.92l-3.8,3.331,8.854,7.756-8.854,7.756,3.8,3.331,12.656-11.087Z" transform="translate(-381.88 -84.92)"/>
+    </g>
+  </g>
+  <g id="Group_33" data-name="Group 33" transform="translate(12.33 19.533)">
+    <g id="Group_32" data-name="Group 32">
+      <path id="Path_17" data-name="Path 17" class="cls-1" d="M63.418,88.251l-3.8-3.331L46.96,96.007l12.656,11.087,3.8-3.331-8.854-7.756Z" transform="translate(-46.96 -84.92)"/>
+    </g>
+  </g>
+  <g id="Group_35" data-name="Group 35" transform="translate(10.755 56.53)">
+    <g id="Group_34" data-name="Group 34">
+      <path id="Path_18" data-name="Path 18" class="cls-1" d="M40.96,245.76V264.6H73.225V245.76Zm26.887,14.132H46.337v-9.422h21.51Z" transform="translate(-40.96 -245.76)"/>
+    </g>
+  </g>
+  <g id="Group_37" data-name="Group 37" transform="translate(48.397 56.53)">
+    <g id="Group_36" data-name="Group 36">
+      <path id="Path_19" data-name="Path 19" class="cls-1" d="M184.32,245.76V264.6h32.265V245.76Zm26.887,14.132H189.7v-9.422h21.51Z" transform="translate(-184.32 -245.76)"/>
+    </g>
+  </g>
+  <g id="Group_39" data-name="Group 39" transform="translate(86.039 56.53)">
+    <g id="Group_38" data-name="Group 38">
+      <path id="Path_20" data-name="Path 20" class="cls-1" d="M327.68,245.76V264.6h32.265V245.76Zm26.887,14.132h-21.51v-9.422h21.51v9.422Z" transform="translate(-327.68 -245.76)"/>
+    </g>
+  </g>
+</svg>

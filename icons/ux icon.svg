@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131.034" height="122.93" viewBox="0 0 131.034 122.93">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fbfbfb;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="ux_icon" data-name="ux icon" transform="translate(-1475.333 -1725.68)">
+    <path id="Path_21" data-name="Path 21" class="cls-1" d="M67.832,53.94V12.262A9.289,9.289,0,0,0,58.571,3H12.262A9.289,9.289,0,0,0,3,12.262V104.88a9.289,9.289,0,0,0,9.262,9.262h9.262" transform="translate(1475.333 1725.68)"/>
+    <path id="Path_22" data-name="Path 22" class="cls-2" d="M34.785,3V9.02a8.115,8.115,0,0,1-7.873,7.873H14.873A8.115,8.115,0,0,1,7,9.02V3" transform="translate(1489.857 1735.402)"/>
+    <path id="Path_23" data-name="Path 23" class="cls-1" d="M104.249,83.463H16.262A9.289,9.289,0,0,1,7,74.2V23.262A9.289,9.289,0,0,1,16.262,14h87.987a9.289,9.289,0,0,1,9.262,9.262V74.2A9.289,9.289,0,0,1,104.249,83.463Z" transform="translate(1489.857 1762.146)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="106" transform="translate(1496 1799.68)"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" class="cls-1" cx="5" cy="5" r="5" transform="translate(1554 1817.68)"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" class="cls-1" cx="4.631" cy="4.631" r="4.631" transform="translate(1574.656 1818.773)"/>
+  </g>
+</svg>
